@@ -1,6 +1,6 @@
 # Raya (Blender Add-on)
 
-This repository contains the source code for the Raya Blender Add-on. This Add-on was developed for Blender 2.93, although it's probably compatible with 2.80 or higher.
+This repository contains the source code for the [Raya](https://github.com/gregzanch/raya) Blender Add-on. It allows users to configure `.gltf` models with acoustic parameters that [Raya](https://github.com/gregzanch/raya) takes as input. This Add-on was developed for Blender 2.93, although it's probably compatible with 2.80 or higher.
 
 ## Features
 
